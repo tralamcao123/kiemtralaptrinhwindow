@@ -19,10 +19,10 @@ namespace BaiKT
             public Nv()
             {
                 maNV = "NV1";
-                tenNhanVien = "Vo Quoc Khanh";
+                tenNhanVien = "Tra Lam Cao";
                 gioiTinh = "Nam";
                 bangCap = "Cao Dang";
-                ngaySinh = "02/11/2002";
+                ngaySinh = "23/07/2002";
             }
         }
         class KhachHang
@@ -42,10 +42,10 @@ namespace BaiKT
             public Kh()
             {
                 maKH = "KH1";
-                tenKH = "Vo Quoc Khanh";
+                tenKH = "Tra Lam Cao";
                 gioiTinh = "Nam";
                 loaiKH = "Vip";
-                ngaySinh = "02/11/2002";
+                ngaySinh = "23/07/2002";
             }
         }
     class Program
